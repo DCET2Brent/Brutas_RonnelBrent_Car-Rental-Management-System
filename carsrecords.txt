@@ -1,0 +1,38 @@
+ 1000 Toyota Vios 5500
+
+ 1001 Toyota Camry 8000
+
+ 1002 Toyota Yaris 8500
+
+ 1003 Toyota Wigo 6500
+
+ 1004 Toyota Raize 14520
+
+ 1005 Toyota Cruiser 14520
+
+ 1006 Toyota Fortnr 16500
+
+ 1007 Toyota Veloz 9250
+
+ 1008 Toyota Innova 18000
+
+ 1009 Suzuki Celerio 10500
+
+ 1010 Suzuki SPresso 16523
+
+ 1011 Suzuki XL7 14521
+
+ 1012 Suzuki Ertiga 19850
+
+ 1013 Suzuki Swift 6250
+
+ 1014 Suzuki Dzire 14500
+
+ 1015 Suzuki APV 18000
+
+ 1016 Honda Brio 14522
+
+ 1017 Honda Civic 14500
+
+ 1018 Honda CRV 16530
+
